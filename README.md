@@ -11,6 +11,8 @@ Create a color guide in sass!
 * The page must be responsive.
 * You should have a guide of at least four colors.
 * Use darken and lighten on your color guide.
+    - https://sass-lang.com/documentation/modules/color#darken
+    - https://sass-lang.com/documentation/modules/color#lighten
  
 ![mock-image-mobile](/reference-images/reference-image-mobile.png)
 
